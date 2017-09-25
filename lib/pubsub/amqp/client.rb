@@ -12,7 +12,7 @@ module Pubsub
       def subscribe(queue)
       end
 
-      def fanout(exchange)
+      def topic(exchange)
       end
     end
   end
